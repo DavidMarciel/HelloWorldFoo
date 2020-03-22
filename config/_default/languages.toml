@@ -1,0 +1,11 @@
+[en]
+  title = "Hello Foo World"
+  languageName = "English"
+  weight = 1
+  contentdir = "content/en"
+
+[es]
+  title = "Hola Mundo Foo"
+  languageName = "Español"
+  weight = 2
+  contentdir = "content/es"
