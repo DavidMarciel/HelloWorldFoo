@@ -15,7 +15,7 @@ header:
     spaceBetweenTitleSubtitle: 0
   
   - type: img
-    imageSrc: images/header/background.png
+    imageSrc: images/mountain.png
     imageSize: initial
     imageRepeat: no-repeat
     imagePosition: center
